@@ -166,4 +166,4 @@ The Phaser logo and characters are &copy; 2011 - 2025 Phaser Studio Inc.
 
 All rights reserved.
 
-"Above all, video games are meant to be just one thing: fun. Fun for everyone." - Satoru Iwata
+"Above all, video games are meant to be just one thing: fun. Fun for everyone." - Zeyad - Abdullah
